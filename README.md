@@ -31,7 +31,7 @@ Each member of our team will be responsible for specific parts of the project. H
 1. **Mpho** (Branch: `setup-python-GrpAssignment`)
    - Set up the repository, folder structure, and main files (`digitalPet.py`, `main.py`, `README.md`).
 
-2. **Faith** (Branch: `feature-eat-method`)
+2. **Mpho** (Branch: `feature-eat-method`)
    - Code and test the `eat()` method. This will reduce hunger and increase happiness.
 
 3. **Derrick** (Branch: `feature-sleep-method`)
